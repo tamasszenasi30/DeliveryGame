@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 6e30ec1acb4b19b4981e199c1409ae5c
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Think Big
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 95c039d97ac21454c8c2f9ace9a28bf2, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 2911d2bc8247c4e4bb8d9864efa38ef4
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Ravenously Demo
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 2826c1ca09c2b2740b7d450cec62c9ef, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

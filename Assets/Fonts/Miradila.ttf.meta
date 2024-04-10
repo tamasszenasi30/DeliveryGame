@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 76f1abed19f89a44e8285dd62e13ed18
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Miradila
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 50c50e9b23355a54fba0f222445eb550, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

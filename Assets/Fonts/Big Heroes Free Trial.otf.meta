@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: ab5ad3a26542916418bd51659050cbea
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Big Heroes Free Trial
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: ca47c1945cf53e649a4a6bd170c79c7c, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

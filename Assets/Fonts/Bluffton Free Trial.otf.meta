@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 0c210deeef2a2eb448add49db5837c04
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Bluffton Free Trial
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 3b2c8f0099ef6a047bf7ec61f68d611d, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

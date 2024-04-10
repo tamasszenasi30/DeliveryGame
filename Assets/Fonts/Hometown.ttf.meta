@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: be748a88ef6d77340a3980c5630da8c4
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Hometown
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 084dc28174c8c4744be0c6977267ae2e, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

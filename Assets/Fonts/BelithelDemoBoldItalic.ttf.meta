@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: d26991b88a6e18346895c62c04905ee9
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Belithel Demo
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: c0d35f7390439fc4e846fb009d921795, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

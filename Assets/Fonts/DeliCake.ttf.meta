@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: dbe074b92541f4b40a755ac94d83f2ef
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Deli Cake
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 0a682cb6cbdb4fe418a1457a22f5e557, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

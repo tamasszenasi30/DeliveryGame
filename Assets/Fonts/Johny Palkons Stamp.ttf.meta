@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: fec1f33877d336a4eb84f4e04ab28b3b
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Johny Palkons
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 6c5366f6de77e8e448d58e888f280567, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

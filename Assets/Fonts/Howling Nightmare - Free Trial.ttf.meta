@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 65066f907d397ac40974f7e1ff47592a
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Howling Nightmare
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 308be5cb945d2fa4ab18b91aa9548c3a, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

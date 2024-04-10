@@ -1,0 +1,30 @@
+fileFormatVersion: 2
+guid: dfe4563954326c4408312b7073c233b0
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Clipangle
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 25426c3983d5aa44da4b1ff1b69e280e, type: 3}
+  - {fileID: 12800000, guid: 23a151affaa8264429c2d3ad9c4acf63, type: 3}
+  - {fileID: 12800000, guid: dd71ee3b0ef2de3438d3260fffc4c869, type: 3}
+  - {fileID: 12800000, guid: b6a6933a5e5a4924a8383213939060e7, type: 3}
+  - {fileID: 12800000, guid: c937c39ad40529e4893e8ff6e70d25d7, type: 3}
+  - {fileID: 12800000, guid: e19b3d15378c2b84e87b51f6727ed887, type: 3}
+  - {fileID: 12800000, guid: ccce16f8ab6454048ae7d7cd36a0ca18, type: 3}
+  - {fileID: 12800000, guid: a8e789231745dad488193ec46659cdc5, type: 3}
+  - {fileID: 12800000, guid: 80ca42bd1d631ae4d903f76ba5b32554, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
