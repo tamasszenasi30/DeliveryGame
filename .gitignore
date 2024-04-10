@@ -30,8 +30,6 @@
 .vsconfig
 Food Courier_Data
 MonoBleedingEdge
-Packages
-ProjectSettings
 
 # Gradle cache directory
 .gradle/
