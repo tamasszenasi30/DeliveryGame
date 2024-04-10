@@ -25,6 +25,14 @@
 
 # Visual Studio cache directory
 .vs/
+*.exe
+*.dll
+.vsconfig
+Assets/
+Food Courier_Data
+MonoBleedingEdge
+Packages
+ProjectSettings
 
 # Gradle cache directory
 .gradle/
